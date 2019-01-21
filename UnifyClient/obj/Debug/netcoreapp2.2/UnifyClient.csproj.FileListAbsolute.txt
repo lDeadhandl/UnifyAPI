@@ -1,0 +1,14 @@
+C:\Stefan\Workspace\UnifyAPI\UnifyClient\bin\Debug\netcoreapp2.2\UnifyClient.deps.json
+C:\Stefan\Workspace\UnifyAPI\UnifyClient\bin\Debug\netcoreapp2.2\UnifyClient.runtimeconfig.json
+C:\Stefan\Workspace\UnifyAPI\UnifyClient\bin\Debug\netcoreapp2.2\UnifyClient.runtimeconfig.dev.json
+C:\Stefan\Workspace\UnifyAPI\UnifyClient\bin\Debug\netcoreapp2.2\UnifyClient.dll
+C:\Stefan\Workspace\UnifyAPI\UnifyClient\bin\Debug\netcoreapp2.2\UnifyClient.pdb
+C:\Stefan\Workspace\UnifyAPI\UnifyClient\obj\Debug\netcoreapp2.2\UnifyClient.csproj.CoreCompileInputs.cache
+C:\Stefan\Workspace\UnifyAPI\UnifyClient\obj\Debug\netcoreapp2.2\UnifyClient.RazorAssemblyInfo.cache
+C:\Stefan\Workspace\UnifyAPI\UnifyClient\obj\Debug\netcoreapp2.2\UnifyClient.RazorAssemblyInfo.cs
+C:\Stefan\Workspace\UnifyAPI\UnifyClient\obj\Debug\netcoreapp2.2\UnifyClient.AssemblyInfoInputs.cache
+C:\Stefan\Workspace\UnifyAPI\UnifyClient\obj\Debug\netcoreapp2.2\UnifyClient.AssemblyInfo.cs
+C:\Stefan\Workspace\UnifyAPI\UnifyClient\obj\Debug\netcoreapp2.2\UnifyClient.RazorTargetAssemblyInfo.cache
+C:\Stefan\Workspace\UnifyAPI\UnifyClient\obj\Debug\netcoreapp2.2\UnifyClient.dll
+C:\Stefan\Workspace\UnifyAPI\UnifyClient\obj\Debug\netcoreapp2.2\UnifyClient.pdb
+C:\Stefan\Workspace\UnifyAPI\UnifyClient\obj\Debug\netcoreapp2.2\UnifyClient.csprojAssemblyReference.cache

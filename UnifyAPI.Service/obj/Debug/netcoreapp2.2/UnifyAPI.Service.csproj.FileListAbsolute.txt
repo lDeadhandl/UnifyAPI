@@ -1,0 +1,9 @@
+C:\Stefan\Workspace\UnifyAPI\UnifyAPI.Service\bin\Debug\netcoreapp2.2\UnifyAPI.Service.deps.json
+C:\Stefan\Workspace\UnifyAPI\UnifyAPI.Service\bin\Debug\netcoreapp2.2\UnifyAPI.Service.dll
+C:\Stefan\Workspace\UnifyAPI\UnifyAPI.Service\bin\Debug\netcoreapp2.2\UnifyAPI.Service.pdb
+C:\Stefan\Workspace\UnifyAPI\UnifyAPI.Service\obj\Debug\netcoreapp2.2\UnifyAPI.Service.csprojAssemblyReference.cache
+C:\Stefan\Workspace\UnifyAPI\UnifyAPI.Service\obj\Debug\netcoreapp2.2\UnifyAPI.Service.csproj.CoreCompileInputs.cache
+C:\Stefan\Workspace\UnifyAPI\UnifyAPI.Service\obj\Debug\netcoreapp2.2\UnifyAPI.Service.AssemblyInfoInputs.cache
+C:\Stefan\Workspace\UnifyAPI\UnifyAPI.Service\obj\Debug\netcoreapp2.2\UnifyAPI.Service.AssemblyInfo.cs
+C:\Stefan\Workspace\UnifyAPI\UnifyAPI.Service\obj\Debug\netcoreapp2.2\UnifyAPI.Service.dll
+C:\Stefan\Workspace\UnifyAPI\UnifyAPI.Service\obj\Debug\netcoreapp2.2\UnifyAPI.Service.pdb
